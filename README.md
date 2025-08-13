@@ -46,14 +46,6 @@ I build **end-to-end AI systems**—from raw data pipelines to production-ready 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Srivathsa&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Srivathsa&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
-
----
-
 ## 💬 Let's Connect
 I'm always open to collaborations on **AI/ML research**, **open-source projects**, or **innovative AI product development**.
 
