@@ -1,42 +1,61 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Pavan Srivathsa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">🚀 Data Scientist & ML Engineer passionate about Visual Intelligence & AI Solutions</h3>
+<h1 align="center">Hi, I'm Pavan Srivathsa 👋</h1>
+<h3 align="center">Machine Learning Architect | Generative AI | Computer Vision | Data Science</h3>
 
 ---
 
-###  About Me
+## 🚀 About Me
+I build **end-to-end AI systems**—from raw data pipelines to production-ready ML models—across domains like **Generative AI**, **Computer Vision**, and **NLP**. My work blends **deep research skills** with **scalable engineering** to solve real business problems.
 
-- 🖥 Currently working on **Glaucoma Detection using Deep Learning**, **LLM GenAI pipelines**, and **Churn Prediction Models**
-- 📍 Located in **Los Angeles, CA**
-- 📫 Connect with me: [LinkedIn](#) • [Twitter/X](#) • [Email](mailto:your-email@example.com)
+- 🎓 **M.S. Computer Science (AI)**, University of Southern California *(Jan 2025 – Dec 2026)*
+- 💼 AI Engineer at **BlackBuckInsights** | Former Data Scientist at **Koantek**
+- 🌱 Currently exploring **LLM fine-tuning**, **AI inference optimization**, and **multimodal RAG pipelines**
+- 📍 Los Angeles, CA
+- 📫 [LinkedIn](https://www.linkedin.com/in/pavan-srivathsa-1a6342165/) • [GitHub](https://github.com/Pavan-Srivathsa)
 
 ---
 
-###  Skills
+## 🛠️ Technical Skills
 
+**Languages:** Python, PySpark, SQL, PyTorch  
+**Frameworks/Libraries:** TensorFlow, Keras, MLflow, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Cloud & Platforms:** Databricks, Azure, GCP, AWS  
+**GenAI Expertise:** Prompt Engineering, LLM Fine-tuning (LoRA, QLoRA, PEFT), RAG, LangChain, Quantization, CPU Inference  
+**Tools:** FastAPI, Hugging Face, Docker, ChromaDB, FAISS
+
+---
+
+## 📌 Selected Projects
+
+| Project | Highlights |
+|---------|------------|
+| **[Glaucoma Detection](https://github.com/Pavan-Srivathsa/Glaucoma)** | Semantic segmentation of optic disc/cup using U-Net variants; improved DICE score from 71% → 81% with CLAHE preprocessing |
+| **[RAG Chatbot](https://github.com/Pavan-Srivathsa/GenAI)** | Context-aware document QA from PDFs, SQL DBs, and URLs using LangChain agents, custom routing, and LLaMA 3 |
+| **[Supply Chain Chatbot](https://github.com/Pavan-Srivathsa)** | Agentic workflow for dynamic SQL generation and decision-making in supply chain data queries |
+| **[Recommendation Engine](https://github.com/Pavan-Srivathsa)** | ALS collaborative filtering + Apriori sequence mining; boosted engagement by 30%, AOV by 15%, conversions by 35% |
+| **[Time Series Forecasting](https://github.com/Pavan-Srivathsa)** | SARIMAX & FBProphet models for generator demand; MAPE 9.1%, Azure MLOps deployment with auto-retrain triggers |
+| **[Neural Synthesis of MRI Images](https://github.com/Pavan-Srivathsa)** | CycleGAN to generate MRI contrasts; reduced cost and improved diagnostic speed |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Top 10** in Databricks Hackathon for LLM fine-tuning
+- 🥇 **Data Science Innovators Award**
+- 📜 Databricks Certified Data Scientist
+- 🥇 Gold Badge in Python & SQL (HackerRank)
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Srivathsa&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Srivathsa&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
 
 ---
 
-###  Featured Projects
+## 💬 Let's Connect
+I'm always open to collaborations on **AI/ML research**, **open-source projects**, or **innovative AI product development**.
 
-| Project | Description |
-|---------|-------------|
-| **[Glaucoma](https://github.com/Pavan-Srivathsa/Glaucoma)** | Vision-based medical imaging project for glaucoma detection |
-| **[ANN](https://github.com/Pavan-Srivathsa/ANN)** | Neural network implementations from scratch |
-| **[ML_algorithms_from_scratch](https://github.com/Pavan-Srivathsa/ML_algorithms_from_scratch)** | Classic ML algorithms built manually |
-| **[GenAI](https://github.com/Pavan-Srivathsa/GenAI)** | LLM/GenAI experimentation and prompt engineering |
-| **[Telecom-churn](https://github.com/Pavan-Srivathsa/Telecom-churn)** | Churn prediction models with data pipelines |
-| **[Chatbot-using-rasa](https://github.com/Pavan-Srivathsa/Chatbot-using-rasa)** | Rasa-based NLU chatbot framework |
-
----
-
-###  Get in Touch
-
-Love collaborating or discussing projects? Feel free to reach out!  
+📫 **Email:** pavansri@usc.edu  
+🔗 **[LinkedIn](https://www.linkedin.com/in/pavan-srivathsa-1a6342165/)** | **[GitHub](https://github.com/Pavan-Srivathsa)**
