@@ -32,6 +32,38 @@ I help tech companies build AI-driven products using structured or unstructured 
 
 ---
 
+
+---
+
+###  Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-username-181717?style=flat&logo=github)](https://github.com/<YOUR_USERNAME>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://linkedin.com/in/<YOUR_LINKEDIN>)
+[![X/Twitter](https://img.shields.io/badge/X-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/<YOUR_HANDLE>)
+[![LeetCode](https://img.shields.io/badge/LeetCode-username-orange?style=flat&logo=leetcode)](https://leetcode.com/<YOUR_USERNAME>)
+
+---
+
+###  GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true)](https://github.com/<YOUR_USERNAME>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact)](https://github.com/<YOUR_USERNAME>)
+
+---
+
+###  Top Repositories
+
+⭐️ [Machine-Learning-from-Scratch](https://github.com/<YOUR_USERNAME>/Machine-Learning-from-Scratch) – Python implementations of fundamental ML algorithms with interactive notebooks  
+⭐️ [Python-Beginner-to-Advance](https://github.com/<YOUR_USERNAME>/Python-Beginner-to-Advance) – A complete Python guide, beginner to advanced  
+⭐️ [JU-library-App](https://github.com/<YOUR_USERNAME>/JU-library-App) – Java-based application for managing library assets  
+⭐️ [Machine-Learning-Projects](https://github.com/<YOUR_USERNAME>/Machine-Learning-Projects) – A collection of ML, DL projects and APIs  
+⭐️ [Data-Structure-and-Algorithm-with-Python](https://github.com/<YOUR_USERNAME>/Data-Structure-and-Algorithm-with-Python) – Python implementations of DS + LeetCode problems  
+⭐️ [Large-Language-Model-Playground](https://github.com/<YOUR_USERNAME>/Large-Language-Model-Playground) – Notebook playground for experimenting with LLMs  
+
+---
+
+###  Show some ❤️ by starring some of these repositories!
+
 ###  Frameworks
 
 <img src="...framework1.svg" height="30" /> OR use plain backticks for placeholders like:
