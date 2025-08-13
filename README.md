@@ -15,6 +15,3 @@ Python · PyTorch · scikit-learn · Jupyter · Pandas · NumPy · MLflow · Dat
 - 🤖 **GenAI** — LLM experiments & prompts
 - 📉 **Telecom-churn** — churn modeling (EDA → features → model)
 - 💬 **Chatbot-using-rasa** — basic NLU pipeline
-
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Srivathsa&show_icons=true)
