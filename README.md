@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:pavansri@usc.edu"><img src="https://img.shields.io/badge/Email-pavansri%40usc.edu-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/pavan-srivathsa-1a6342165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pavan-srivathsa-ramesh-1a6342165/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Pavan-Srivathsa"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
@@ -68,13 +68,6 @@ Prompt Engineering, LoRA/QLoRA, PEFT, LangChain, ChromaDB, FAISS, Hugging Face, 
   <img src="https://img.shields.io/badge/-HackerRank%20Gold%20SQL-blue?style=for-the-badge&logo=hackerrank" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Srivathsa&show_icons=true&theme=transparent&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Srivathsa&layout=compact&theme=transparent" height="180" />
-</div>
 
 ---
 
