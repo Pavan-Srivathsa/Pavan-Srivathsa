@@ -37,12 +37,6 @@
 
 ---
 
-###  GitHub Stats
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan-Srivathsa&show_icons=true&theme=transparent)
-
----
-
 ###  Get in Touch
 
 Love collaborating or discussing projects? Feel free to reach out!  
